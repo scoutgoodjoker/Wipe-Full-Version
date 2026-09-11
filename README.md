@@ -236,3 +236,6 @@ This repository serves as the official landing page for Wipe. The software is di
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://PrivacyRoot.com)
 
 **Get the most recent version of Wipe today!**
+
+---
+**Last updated:** 2026-09-11 07:52:43 UTC
